@@ -4,3 +4,7 @@ header{
   font-size: 14px;
   font-weight: bold;
 }
+header .navigation{
+  display:inline-flex;
+  align-content: flex-end;
+}
